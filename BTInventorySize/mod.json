@@ -1,0 +1,10 @@
+﻿{
+	"Name": "BTInventorySize",
+	"Enabled": true,
+
+	"Description": "Changes all mechomponent inventory sizes to 1",
+	"Author": "mcb",
+	"Website": "https://github.com/mcb5637/BTInventorySize",
+
+	"DLL": "BTInventorySize.dll"
+}
